@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lamnv
+ls -apmv
